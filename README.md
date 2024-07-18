@@ -16,7 +16,7 @@
 
   ## Installation
 
-  Run 'npm i' in the terminal, all packages are already preinstalled. 
+  Run 'npm i' in the terminal, all packages are already pre-installed. 
 
   ## Usage
 
