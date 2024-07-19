@@ -36,4 +36,8 @@
 
   # Links 
 
+  GitHub : https://github.com/ParthKapadia2207/Employee-Tracker
+
+  Vidoe : https://drive.google.com/file/d/1Y41jafe_WAWPpCRmXPfkKeHSmCSroZ8x/view
+
   
